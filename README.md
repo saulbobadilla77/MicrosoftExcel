@@ -15,3 +15,6 @@ Transformar y visualizar datos que permita a los dueños de la tienda tomar deci
    - Esta categoría presenta una reducción de ventas en comparación con Ropa y Calzado.
    
    - ![3-elementos-para-aumentar-las-ventas](https://github.com/saulbobadilla77/MicrosoftExcel/assets/174889646/2cc3981c-0b82-4cea-b7de-59807c4f687c)
+
+### Código utilizado en el análisis
+```SELECT * FROM TABLE ```
